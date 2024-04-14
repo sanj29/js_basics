@@ -17,5 +17,3 @@ console.log(" ");
 for( let key in data){
     console.log(data[key]);
 }
-
-console.log(data[31])
